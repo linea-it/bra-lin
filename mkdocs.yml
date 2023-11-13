@@ -1,45 +1,23 @@
 nav:
   - Home: index.md
-  - Primeiros passos: primeiros_passos.md 
-  - Plataformas Científicas: 
-      - Plataformas Científicas: sci-platforms/index.md #intro e LSP landing page
-      - JupyterHub: sci-platforms/jupyter.md
-      - Science Server: sci-platforms/sci_server.md
-      - User Query: sci-platforms/user_query.md
-      - DES Science Portal: sci-platforms/des.md
-      - Solar System Portal: sci-platforms/tno.md
-      - MaNGA Portal: sci-platforms/manga.md 
-  - Processamento:
-      - Processamento: processamento/index.md
-      - Cluster Apollo (LIneA): processamento/apollo.md
-      - Santos Dumont (LNCC): processamento/sdu.md
-  - Armazenamento: 
-      - Armazenamento: armazenamento/index.md
- #     - Lustre: armazenamento/lustre.md   
-  - Dados:
-      - Dados: data/index.md
-      - DES: data/des.md
-      - LSST: data/lsst.md      
-  - Políticas: 'politicas.md'
-  #- Photoz Server: 'photozserver.md'
-  #- Armazenamento: 'armazenamento.md'
-  #- Monitoramento: 'monitoramento.md'
-  - Glossário: 'glossario.md'
-  - Suporte: 'suporte.md'
-  #- FAQ: 'faq.md'
-  #- Mkdocs Exemplos: 'exemplos/exemplos.md' #provisorio
-  
+  - In-kind Contributions: 
+      - In-kind Contributions: in-kind/index.md
+      - IDAC: in-kind/idac.md
+      - Photo-z: in-kind/photoz.md
+      - DESC Pipeline Scientists: in-kind/pipe-sci.md
+  - Documents: docs.md
+  - Contact: 'contact.md'
 
 
 # Site information
 site_name:  Documentação para Usuários
-site_author: LIneA team 
-site_url: "http://docs.linea.org.br"
-repo_name: linea-it/docs
-repo_url: https://github.com/linea-it/docs
+site_author: Julia Gschwend 
+site_url: "http://bra-lin.linea.org.br"
+repo_name: linea-it/bra-lin
+repo_url: https://github.com/linea-it/bra-lin
 edit_uri: 'edit/dev/docs'
 use_directory_urls: false
-copyright: 'Copyright &copy; 2006 - 2022 LIneA'
+copyright: 'Copyright &copy; 2006 - 2024 LIneA'
 # cosmo, material-components, cerulean, journal, slate, readthedocs, readable, spacelab, united, bootstrap, simplex, flatly, yeti, psinder, amelia, cyborg, unidata, mkdocs
 
 
